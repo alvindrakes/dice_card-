@@ -1,4 +1,4 @@
-# dice_card
+# flutter_dice_card
 - a simple app that simulate a real dice 
 
 ## App functions 
